@@ -25,7 +25,6 @@
 <script src="https://learn.gq/js/all.js"></script>
 </head>
 <body style="display:none;overflow:hidden;">
-  <a href="axis-network.vercel.app/about.html" target="_blank">Terms of Service</a><br>
 <iframe class="frame" src="https://axis-network.vercel.app/games.html" width="100%" height="100%" style="user-select:none;" frameborder="0">An error occured.</iframe>
 <div class="tosMsg"> <span id="openPopup" onclick="openPopup()">Agree to tos?</span></div>
 <div class="pageLoading">
@@ -36,7 +35,8 @@
 <div class="tosBkg">
 <div class="tos">
 <input type="checkbox" id="acceptTerms" name="acceptTerms" value="Terms" onclick="selectedBox()">
-<label for="acceptTerms" style="user-select:none">I confirm.</label><br>
+    <a href="axis-network.vercel.app/about.html" target="_blank">Terms of Service</a><br>
+<label for="acceptTerms" style="user-select:none">I agree.</label><br>
 <span class="err">You must select the checkbox above to continue.<br></span>
 <div id="centerBtn">
 <button class="btn" onclick="continueToSite()">Continue</button>
