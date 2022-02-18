@@ -5,7 +5,7 @@ this site was made for people at my school and not to be distributed. This is no
 We gotta give em so here they are:
 
 - Veracity - coder that made the site work on about:blank!
-- git - main dev/co founder for axis
+- git - main dev/co founder of axis
 - axis network - dev/owner and founder for axis
 - Sparrow tech - dev for axis
 - Razor Tech - dev for axis
